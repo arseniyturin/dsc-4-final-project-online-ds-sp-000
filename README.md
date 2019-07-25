@@ -13,6 +13,15 @@ You will be able to:
 * Describe what constitutes a successful project
 * Describe what the experience of the project review should be like
 
+```
+import numpy as np
+
+# testing code snippet
+def func(n):
+    for i in range(len(n)):
+        print(i)
+```
+
 ## Final Project Summary
 
 You've made it all the way through one of the toughest modules of this course, and demonstrated a solid understanding of the principles of Deep Learning. You must have an amazing brain in your head!
