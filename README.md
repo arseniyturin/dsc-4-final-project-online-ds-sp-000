@@ -1,5 +1,5 @@
 
-# Module 4 Final Project
+# Predicting Patient Condition Based on Drug Review
 
 
 ## Introduction
@@ -12,15 +12,6 @@ You will be able to:
 * Describe all required deliverables
 * Describe what constitutes a successful project
 * Describe what the experience of the project review should be like
-
-```
-import numpy as np
-
-# testing code snippet
-def func(n):
-    for i in range(len(n)):
-        print(i)
-```
 
 ## Final Project Summary
 
